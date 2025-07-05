@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Project Structure
+## Project Structure
 
 ```
 src/
@@ -26,7 +26,7 @@ src/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React 18+**
 - **TypeScript**
@@ -37,7 +37,7 @@ src/
 
 ---
 
-## 🧾 Pages Overview
+## Pages Overview
 
 - `/about` – Company background.
 - `/services` – Overview of offered services (with accordion).
@@ -48,7 +48,7 @@ src/
 
 ---
 
-## 📦 Scripts
+## Scripts
 
 ```bash
 git clone https://www.github.com/pratyoos/flowbyte-solutions.git
@@ -60,7 +60,7 @@ npm run build   # Build for production
 
 ---
 
-## 🔒 TypeScript Config Highlights
+## TypeScript Config Highlights
 
 - `"strict": true` – Enforces strict typing
 - `"moduleResolution": "bundler"` – For modern bundlers like Vite
@@ -69,13 +69,13 @@ npm run build   # Build for production
 
 ---
 
-## 📁 Declarations
+## Declarations
 
 You do not need `declarations.d.ts` unless importing untyped JS libraries. All your `.tsx` components are correctly typed by default.
 
 ---
 
-## 🧼 Linting
+## Linting
 
 Ensure ESLint is configured (`eslint.config.js`) to enforce best practices, such as:
 
@@ -85,13 +85,13 @@ Ensure ESLint is configured (`eslint.config.js`) to enforce best practices, such
 
 ---
 
-## 📍 Location Embed
+## Location Embed
 
 Google Maps iframe is embedded in the footer for contact location preview.
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
-Made by **Flowbyte Solutions**  
-📧 `info@flowbytesolutions.com`
+Made with ❤️ by [Pratyoos](https://github.com/pratyoos).
+
